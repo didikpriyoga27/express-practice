@@ -1,0 +1,16 @@
+{
+    "SchemaTodo": {
+        "type": "object",
+        "properties": {
+            "name": {
+                "type": "string"
+            },
+            "total": {
+                "type": "number"
+            },
+            "description": {
+                "type": "string"
+            }
+        }
+    }
+}
